@@ -1,0 +1,60 @@
+    <style>
+       body {
+            background-color: black;
+        }
+        #jumbotron-um{
+            background-image: url(guitar-1940733_1920.jpg);
+            background-repeat: no-repeat;
+            background-size:cover;
+            color:black;
+        }
+      #container{
+            background-color: #DCDCDC;
+        }
+      #cartao  {
+             display: flex;
+             justify-content: center;
+             flex-direction: row;
+             margin-bottom:10px;          
+            
+            }
+        .card footer{
+                width: 230 672px;
+                height:100%;
+        }
+       .card img{
+             width: 230 672px;
+             height: 370px;
+        }
+        
+      .card{
+            text-align: center;
+            margin-top: 2%;
+        }
+        footer{
+            background-color: gray;
+            color:aliceblue;
+            clear: both;
+            text-align: center;
+        }
+        #carouselstrato img, #carouselstrato1 img,  #carouselstrato2 img{
+               height: 400px;
+               width: 250px;
+        }
+        #carouselstrato,  #carouselstrato1,  #carouselstrato2{
+            width: 50%;
+            margin: 0 auto;
+            margin-bottom: 15px;
+            height:auto;
+        }
+        #cabecalho, #ca, #c{
+            text-align: center;
+            margin: 10px;
+        }
+        footer{
+            height: 120px;
+            width: 100%;
+            text-align: center;
+        }
+        
+    </style>
